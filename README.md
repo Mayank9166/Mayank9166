@@ -88,10 +88,12 @@
 
 ### 📬 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankapply9166@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Call-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+917851805650)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-saini-47b508259/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank9166)
+<p align="center">
+  <a href="mailto:mayankapply9166@gmail.com" target="_blank">📧 mayankapply9166@gmail.com</a> |
+  <a href="tel:+917851805650" target="_blank">📱 +91 7851805650</a> |
+  <a href="https://www.linkedin.com/in/mayank-saini-47b508259/" target="_blank">🔗 LinkedIn</a> |
+  <a href="https://github.com/Mayank9166" target="_blank">💻 GitHub</a>
+</p>
 
 ---
 
