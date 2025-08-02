@@ -2,8 +2,9 @@
 <h3 align="center">💻 Competitive Programmer | 🔧 Full Stack Developer | 🧠 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Tech-savvy+problem+solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;2500%2B+DSA+Problems+Solved+%F0%9F%92%8E;Building+full-stack+web+apps+with+MERN+%F0%9F%94%A5;Passionate+about+clean+UIs+%26+open+source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+%26+App+Developer+%F0%9F%92%BB;3000%2B+Coding+Problems+Solved+%F0%9F%93%96;Specialist+on+Codeforces+%F0%9F%94%8A;4%E2%AD%90+on+GeeksforGeeks+%F0%9F%92%A1;3%E2%AD%90+on+CodeChef+%F0%9F%8D%B3;Building+projects+with+MERN+Stack+%F0%9F%94%A5;Lover+of+Clean+UIs+%26+Open+Source+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mayank9166&label=Profile%20views&color=blue&style=flat" alt="profile views" />
@@ -14,7 +15,7 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech CSE @ IIIT Bhagalpur  
-- 🔥 Solved **2500+ DSA problems** across platforms  
+- 🔥 Solved **3000+ DSA problems** across platforms  
 - 👨‍💻 Full Stack Intern @ CrazyJump Pvt Ltd  
 - 🚀 Currently building **Trendsphere** – a modern news publishing platform  
 - 🧑‍🏫 Coding Club Lead, mentored 50+ students in DSA & Web Development  
@@ -25,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,reactnative,nodejs,express,mongodb,mysql,firebase,tailwind,figma,postman,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,mysql,firebase,tailwind,figma,postman,git,vscode" />
 </p>
 
 ---
@@ -50,7 +51,7 @@
 - 🛒 Product management with search & filters
 - 💅 Smooth UI with Tailwind, Ant Design & Framer Motion
 - 💡 Stack: React.js, Node.js, MongoDB, Express.js, Tailwind CSS  
-🔗 Live link coming soon... • 📦 [Repo](https://github.com/Mayank9166/mayank-mart)
+🔗 [Live](https://mayank-mart-2.onrender.com/) 📦 [Repo](https://github.com/Mayank9166/Mayank-Mart)
 
 ---
 
@@ -61,7 +62,7 @@
 - 🧾 Add/manage expenses & income by category/date
 - 🔐 JWT-based login/logout
 - 💡 Stack: React.js, Node.js, MongoDB, Express, Ant Design  
-🔗 Live link coming soon... • 📦 [Repo](https://github.com/Mayank9166/Expense-Tracking)
+🔗 [Live](https://67b018097be2aa4c9fc2f54b--joyful-gumption-1b6708.netlify.app/) • 📦 [Repo](https://github.com/Mayank9166/Expense-Tracking)
 
 ---
 
@@ -88,9 +89,9 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:mayanksaini.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+919876543210"><img src="https://img.shields.io/badge/Phone-Call-blue?style=for-the-badge&logo=phone&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mayank-saini-9166/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mayankapply9166@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+917851805650"><img src="https://img.shields.io/badge/Phone-Call-blue?style=for-the-badge&logo=phone&logoColor=white" /></a>
+  <a href="https://https://www.linkedin.com/in/mayank-saini-47b508259/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Mayank9166"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
