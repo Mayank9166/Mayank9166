@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Saini</h1>
-<h3 align="center">Competitive Programmer | Full Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">Competitive Programmer | Full Stack Web/App Developer | Tech Enthusiast</h3>
 
 ---
 
 - 🎓 B.Tech CSE @ IIIT Bhagalpur  
-- 🧠 Solved **2500+ DSA problems**  
-- 👨‍💻 3⭐️ CodeChef (1610) | 4⭐️ GFG (1839) | LeetCode (1741)  
+- 🧠 Solved **3000+ DSA problems**  
+- 👨‍💻 3⭐️ CodeChef (1610) | Specialist(1406) Codeforces | 4⭐️ GFG (1839) | LeetCode (1741)  
 - 💼 Full Stack Developer Intern @ CrazyJump Pvt Ltd  
 - 👨‍🏫 Coding Club Lead | Mentored 50+ students in DSA and Web Dev  
 - 🚀 Building: **Trendsphere** — A dynamic MERN-based news platform  
@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack
 
 ```bash
-Languages:      C++, JavaScript, TypeScript  
+Languages:      C++, JavaScript
 Frontend:       React.js, React Native, Expo, Tailwind CSS, ShadCN UI  
 Backend:        Node.js, Express.js, Firebase Auth, Appwrite, REST APIs  
 Database:       MongoDB, MySQL  
@@ -32,4 +32,9 @@ Others:         ReactQuill, JWT, Context API, GitHub Actions, ChatGPT
 💰 Expense Tracker – React + Node app for managing income and expenses with analytics
 
 🧠 Coding Club Portal – Internal portal for contests, progress, and resources (in development)
+
+🌐 Connect with Me
+
+
+“Consistency beats intensity.”
 
