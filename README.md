@@ -91,7 +91,7 @@
 <p align="center">
   <a href="mailto:mayankapply9166@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+917851805650"><img src="https://img.shields.io/badge/Phone-Call-blue?style=for-the-badge&logo=phone&logoColor=white" /></a>
-  <a href="https://https://www.linkedin.com/in/mayank-saini-47b508259/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mayank-saini-47b508259/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Mayank9166"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
